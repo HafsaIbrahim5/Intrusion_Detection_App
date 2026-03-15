@@ -2,6 +2,9 @@
 
 A **professional-grade**, **modern**, and **visually stunning** Machine Learning solution for detecting network intrusions in real-time. Built with cutting-edge technologies and designed for enterprise-level security applications.
 
+## 🚀 Live Demo
+[🔗 View Live App](https://yqywtjsegyubm2acc4kakq.streamlit.app/)
+
 ## ✨ Features
 
 ### 🎨 Modern UI/UX
@@ -156,4 +159,3 @@ This project is open source and available for educational and professional use.
 - Azure
 - Any Docker-compatible platform
 
-*Perfect for GitHub portfolios and freelancing platforms!* 🚀
